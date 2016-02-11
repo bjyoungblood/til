@@ -8,3 +8,7 @@ Neat (or not) things about stuff organized by topic.
 - [jbranchaud/til](https://github.com/jbranchaud/til)
 - [jwworth/til](https://github.com/jwworth/til)
 - [thoughtbot/til](https://github.com/thoughtbot/til)
+
+### License
+
+[MIT](LICENSE)
